@@ -1,6 +1,6 @@
 {
   "name": "dark-heresy",
-  "title": "Dark Heresy 2E",
+  "title": "Dark Heresy 2E-Rincelot",
   "description": "Innocence proves nothing",
   "version": "3.0.2",
   "minimumCoreVersion": "0.8.4",
@@ -80,7 +80,7 @@
   "secondaryTokenAttribute": null,
   "url": "https://github.com/Rincelot216/DarkHeresy2E-FoundryVTT",
   "socket": true,
-  "manifest": "https://github.com/Rincelot216/DarkHeresy2E-FoundryVTT/blob/5d7c3f31bccd885755999389349dc0bb51dc37f1/system.json",
+  "manifest": "https://raw.githubusercontent.com/Rincelot216/DarkHeresy2E-FoundryVTT/master/system.json",
   "download": "https://github.com/moo-man/DarkHeresy2E-FoundryVTT/releases/download/3.0.2/dark-heresy.zip",
   "license": "LICENSE.txt"
 }
