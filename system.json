@@ -1,12 +1,12 @@
 {
-  "name": "dark-heresy",
+  "name": "dark-heresy-Rincelot",
   "title": "Dark Heresy 2E-Rincelot",
   "description": "Innocence proves nothing",
   "version": "3.0.2",
   "minimumCoreVersion": "0.8.4",
   "compatibleCoreVersion": "0.8.8",
   "templateVersion": 2,
-  "author": "JeansenVaars, Moo Man, fredthedeadhead, Perfectro",
+  "author": "JeansenVaars, Moo Man, fredthedeadhead, Perfectro, Rincelot",
   "scripts": [],
   "esmodules": [
     "script/common/hooks.js"
